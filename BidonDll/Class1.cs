@@ -8,6 +8,6 @@ namespace BidonDll
 {
     public class Class1
     {
-        private string name;
+        private string name = "toto";
     }
 }
